@@ -12,7 +12,6 @@
                 @include('microposts.form')
                 {{-- 投稿一覧 --}}
                 @include('microposts.microposts')
-                form.blade.php
             </div>
         </div>
     @else
